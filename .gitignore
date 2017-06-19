@@ -1,0 +1,8 @@
+/.gradle/
+/bin/
+build/
+.classpath
+.settings/org.eclipse.jdt.core.prefs
+.settings/
+.project
+metropool.log
